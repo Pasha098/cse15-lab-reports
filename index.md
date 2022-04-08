@@ -1,10 +1,10 @@
-#Sections #
-##section 1 
+# Sections #
+## section 1 
 
-**In this section we're trying *the bullot points* format: 
-*unordered list 
-*back to back
-*top to top
+** In this section we're trying *the bullot points* format: 
+* unordered list 
+* back to back
+* top to top
 
 ---
 
